@@ -1,6 +1,6 @@
 # Wedding Website
 A beautiful, feature rich, device friendly wedding website for my cousin.  
-_See [kishorewedsmanasa.online](http://kishorewedsmanasa.online) For a month, I had this deployed on Hostinger's server. (May/2022).
+For a month, I had this deployed on Hostinger's server [kishorewedsmanasa.online](http://kishorewedsmanasa.online) . (May/2022).
 
 # Highlights
 1. Slick and fully __responsive__ design.
